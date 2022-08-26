@@ -1,0 +1,11 @@
+.regular-cursor {
+	width: 25px;
+	height: 25px;
+	backdrop-filter: invert(100%);
+	position: fixed;
+	transform: translate(-50%, -50%);
+	top: 0px;
+	left: 0px;
+	border-radius: 15px;
+	pointer-events: none;
+}
